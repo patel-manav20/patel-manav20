@@ -54,14 +54,6 @@
 | [FastAPI + LangGraph Book Library](https://github.com/patel-manav20/Fastapi-Langgraph-Book-Library) | Book CRUD app + stateful multi-agent graph | Python |
 | [TapEats](https://github.com/TapEats/TapEats) | Mobile food ordering application | Dart / Flutter |
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patel-manav20&show_icons=true&theme=default&hide_border=true&title_color=1c92d2&icon_color=1c92d2" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-manav20&layout=compact&hide_border=true&title_color=1c92d2&theme=default" height="150" />
-</p>
 
 ---
 
