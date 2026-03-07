@@ -1,20 +1,27 @@
-<h1 align="center">Hi, I'm Manav Patel 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Passionate about turning data into insights and building real-world solutions.</em><br/>
-  <em>Open to collaborating on data-driven projects and research.</em>
-</p>
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1C92D2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manav+Patel+%F0%9F%91%8B;Data+Science+%40+SJSU;Building+Real-World+Data+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/patel-manav20">
-    <img src="https://komarev.com/ghpvc/?username=patel-manav20&style=flat-square&color=1c92d2" alt="Profile views" />
-  </a>
-  <a href="https://github.com/patel-manav20?tab=followers">
-    <img src="https://img.shields.io/github/followers/patel-manav20?style=flat-square&color=1c92d2" alt="Followers" />
-  </a>
-</p>
+<br/>
+
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/manav-patel20/">
+  <img src="https://img.shields.io/badge/LinkedIn-Manav%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/patel-manav20">
+  <img src="https://img.shields.io/badge/GitHub-patel--manav20-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=patel-manav20&style=for-the-badge&color=1c92d2&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
+
+<!-- Animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1c92d2&height=80&section=header&fontSize=0" width="100%"/>
 
 ## About Me
 
@@ -22,6 +29,7 @@
 - 🔭 Currently working on data pipelines, ML systems, and distributed applications
 - 🤝 Open to collaborating on **data-driven projects** and **research**
 - 💬 Ask me about Python, FastAPI, LangGraph, and data engineering
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manav-patel20/)
 
 ---
 
@@ -40,6 +48,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00B140?style=flat-square&logoColor=white)
 
 ---
 
@@ -54,9 +63,24 @@
 | [FastAPI + LangGraph Book Library](https://github.com/patel-manav20/Fastapi-Langgraph-Book-Library) | Book CRUD app + stateful multi-agent graph | Python |
 | [TapEats](https://github.com/TapEats/TapEats) | Mobile food ordering application | Dart / Flutter |
 
-
 ---
 
-<p align="center">
-  <a href="https://github.com/patel-manav20">github.com/patel-manav20</a>
-</p>
+<!-- Animated snake contribution graph -->
+<div align="center">
+
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patel-manav20/patel-manav20/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patel-manav20/patel-manav20/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/patel-manav20/patel-manav20/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- Animated bottom wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1c92d2&height=80&section=footer&fontSize=0" width="100%"/>
+
+<div align="center">
+  <em>Passionate about turning data into insights and building real-world solutions.</em>
+</div>
