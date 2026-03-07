@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/patel-manav20/Manav_Patel/main/wave.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1c92d2&height=80&section=header&fontSize=0" width="100%"/>
 
 <div align="center">
 
