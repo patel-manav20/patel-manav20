@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/patel-manav20/Manav_Patel/main/wave.png" width="100%"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1C92D2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manav+Patel+%F0%9F%91%8B;Data+Engineer+%26+AI%2FML+Builder;SJSU+Applied+Data+Intelligence;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -111,7 +113,7 @@ Data engineer passionate about building **scalable intelligent systems** and **d
 
 </div>
 
-<img src="https://raw.githubusercontent.com/patel-manav20/Manav_Patel/main/wave.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1c92d2&height=80&section=footer&fontSize=0" width="100%"/>
 
 <div align="center">
   <em>Passionate about turning data into insights and building real-world solutions.</em>
