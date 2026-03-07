@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1C92D2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manav+Patel+%F0%9F%91%8B;Data+Engineer+%26+AI%2FML+Builder;SJSU+Applied+Data+Intelligence;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/manav-patel20/">
   <img src="https://img.shields.io/badge/LinkedIn-Manav%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,7 +15,7 @@
 </a>
 &nbsp;
 <a href="mailto:manavpatel2052@gmail.com">
-  <img src="https://img.shields.io/badge/Email-manavpatel2052@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-manavpatel2052%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/patel-manav20/Manav_Patel/blob/main/Resume.pdf">
@@ -25,8 +25,6 @@
 <img src="https://komarev.com/ghpvc/?username=patel-manav20&style=for-the-badge&color=1c92d2&label=PROFILE+VIEWS" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/patel-manav20/Manav_Patel/main/wave.png" width="100%"/>
 
 ---
 
@@ -84,7 +82,7 @@ Data engineer passionate about building **scalable intelligent systems** and **d
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Graduate ROI Intelligence System](https://github.com/patel-manav20/The-Graduate-ROl-Intelligence-System) | End-to-end Airflow pipeline → Snowflake → dbt → OpenAI chatbot for degree ROI analysis | Airflow · Snowflake · dbt · OpenAI |
+| [Graduate ROI Intelligence System](https://github.com/patel-manav20/The-Graduate-ROl-Intelligence-System) | End-to-end Airflow pipeline → Snowflake → dbt → OpenAI chatbot for degree ROI | Airflow · Snowflake · dbt · OpenAI |
 | [Stock Price Forecast Pipeline](https://github.com/patel-manav20/Stock-Price-Forecast-Pipeline) | End-to-end pipeline for stock price forecasting | Python |
 | [Global Weather & Air Quality Analysis](https://github.com/patel-manav20/Global-Weather-and-Air-Quality-Analysis-Predictive-Modeling) | ML system on 109K records — Random Forest, XGBoost, Tableau dashboard | Python · Scikit-learn · XGBoost |
 | [Agentic AI & Distributed Workflows](https://github.com/patel-manav20/Fastapi-Langgraph-Book-Library) | Multi-step autonomous AI with LangGraph Planner–Reviewer self-correction loops | LangGraph · FastAPI · Docker |
